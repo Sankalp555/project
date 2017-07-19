@@ -1,2 +1,1 @@
-# project
-this is new repository
+I am sankalp joshi.I am software developer at throughout technologies indore.
